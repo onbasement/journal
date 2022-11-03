@@ -10,3 +10,4 @@
 > 22.10.30 Codecademy CSS강의 중 Learn CSS 7개 강의중 1개 수강완료<br/>
 > 22.10.31 Codecademy CSS강의 중 Learn CSS 7개 강의중 2번째 강의 5페이지까지 정리완료<br/>
 > 22.11.01 Codecademy CSS강의 중 Learn CSS 7개 강의중 2번째 강의 11페이지까지 정리완료<br/>
+> 22.11.02 당직근무<br/>
