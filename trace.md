@@ -16,3 +16,4 @@
 > 22.11.02 당직근무<br/>
 > 22.11.03 Codecademy CSS강의 중 Learn CSS 7개 강의중 3개 정리완료<br/>
 > 22.11.04 Codecademy CSS강의 중 Learn CSS 7개 강의중 4번째 강의 11페이지까지 정리완료<br/>
+> 22.11.05 Codecademy CSS강의 중 Learn CSS 7개 강의중 5번째 강의 4페이지까지 정리완료<br/>
