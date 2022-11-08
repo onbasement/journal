@@ -10,7 +10,6 @@
 
 ## 2. 프론트엔드 기본지식
 ### ~2.1 <a href="https://github.com/onbasement/Chapter-2/blob/main/HTML.md" target="_blank">HTML</a>~ (10/28 완료)
-[HTML]
 ### ~2.2 <a href="https://github.com/onbasement/Chapter-2/blob/main/css.md" target="_blank">CSS</a>~ (11/8 완료)  
 ### 2.3 JavaScript
 <br>
@@ -35,5 +34,3 @@
 ### 4.4 JavaScript
 ### 4.5 Python
 ### 4.6 Ruby
-
-[HTML]: https://github.com/onbasement/Chapter-2/blob/main/HTML.md
