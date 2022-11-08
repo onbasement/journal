@@ -19,3 +19,4 @@
 > 22.11.05 Codecademy CSS강의 중 Learn CSS 7개 강의중 5번째 강의 4페이지까지 정리완료<br/>
 > 22.11.06 병생지로 인해 사지방 사용불가 <br/>
 > 22.11.07 Codecademy CSS강의 중 Learn CSS 7개 강의중 6개 정리완료<br/>
+> 22.11.08 Codecademy CSS강의 중 Learn CSS 7개 모두 정리완료<br/>
