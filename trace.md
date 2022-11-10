@@ -21,3 +21,4 @@
 > 22.11.07 Codecademy CSS강의 중 Learn CSS 7개 강의중 6개 정리완료<br/>
 > 22.11.08 Codecademy CSS강의 중 Learn CSS 7개 모두 정리완료<br/>
 > 22.11.09 나만의 webpage만들기 1일차 page생성, 기본 html틀 작성, background image 설정완료<br/>
+> 22.11.10 추가근무<br/>
