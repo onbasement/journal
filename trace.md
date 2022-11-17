@@ -28,3 +28,4 @@
 > 22.11.14 코로나로인해 사지방 사용금지<br/>
 > 22.11.15 나만의 webpage만들기 2일차, BEM에 대해 공부, 상단 title bar 생성<br/>
 > 22.11.16 내일 조기출근<br/>
+> 22.11.17 Codecademy JavaScript강의 중 Learn JavaScript 11개 강의중 1개 정리완료<br/>
