@@ -29,3 +29,4 @@
 > 22.11.15 나만의 webpage만들기 2일차, BEM에 대해 공부, 상단 title bar 생성<br/>
 > 22.11.16 내일 조기출근<br/>
 > 22.11.17 Codecademy JavaScript강의 중 Learn JavaScript 11개 강의중 1개 정리완료<br/>
+> 22.11.18 Codecademy JavaScript강의 중 Learn JavaScript 11개 강의중 2개 정리완료<br/>
