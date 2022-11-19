@@ -30,3 +30,4 @@
 > 22.11.16 내일 조기출근<br/>
 > 22.11.17 Codecademy JavaScript강의 중 Learn JavaScript 11개 강의중 1개 정리완료<br/>
 > 22.11.18 Codecademy JavaScript강의 중 Learn JavaScript 11개 강의중 2개 정리완료<br/>
+> 22.11.19 전역자경매<br/>
